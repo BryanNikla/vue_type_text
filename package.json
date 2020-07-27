@@ -1,0 +1,18 @@
+{
+  "private": false,
+  "name": "vue_type_text",
+  "version": "1.0.0",
+  "description": "A VueJS component that imitates typed text with blinking cursor",
+  "main": "./dist/index.js",
+  "scripts": {
+    "dev": "vue serve typeText.vue"
+  },
+  "keywords": [
+    "Vue",
+    "Vuejs",
+    "component",
+    "SFC"
+  ],
+  "author": "Bryan Nikla",
+  "license": "MIT"
+}

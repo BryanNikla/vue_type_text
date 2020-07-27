@@ -1,0 +1,7 @@
+node_modules
+node_modules/
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/vue_type_text.iml
